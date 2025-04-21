@@ -42,9 +42,16 @@ Final cleaned data: `/data/all_books_clean.csv`
 
 Questions I explored:
 1. What’s the distribution of book prices?
+![Distribution of book prices](https://github.com/user-attachments/assets/0df677f8-bcd3-4319-9e54-970d98145f1b)
 2. What’s the count of books by rating?
+   ![Book Count of ratings](https://github.com/user-attachments/assets/51c16ed7-c76d-40ab-b02f-e37043278022)
+
 3. What are the average prices per category?
+   ![Average book price per cateogry](https://github.com/user-attachments/assets/3f198d9c-dd4b-4cc4-9fd9-6b2e96e341e1)
+
 4. Do higher-rated books tend to be more expensive?
+   ![Book price by rating](https://github.com/user-attachments/assets/4f066272-f8c7-467a-ab00-da275a5adf34)
+
 
 
 
