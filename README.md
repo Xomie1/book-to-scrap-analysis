@@ -22,7 +22,7 @@ I scraped the following fields:
 - Rating
 - Category
 
-The scraping script is in `/scripts/scrape_books.py`.
+The scraping script is in `Book Scraping.py`.
 
 ---
 
@@ -34,7 +34,7 @@ Tasks:
 - Converted ratings from words (e.g. "Three") to numbers (e.g. 3)
 - Checked for and handled missing values
 
-Final cleaned data: `/data/all_books_clean.csv`
+Final cleaned data: `Cleaned Book Data.csv`
 
 ---
 
